@@ -101,6 +101,7 @@ hr {
   .tall-body { font: -apple-system-tall-body }
 
   .project-block {
+    background-color: #ffffff80;
     padding: 10px;
     width: 150px;
   border: solid 1px #EEE;
