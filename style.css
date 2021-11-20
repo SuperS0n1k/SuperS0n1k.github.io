@@ -105,3 +105,7 @@ hr {
   border: solid 1px #EEE;
  border-radius: 10px;
 }
+
+.project-list {
+display: inline-block;
+}
