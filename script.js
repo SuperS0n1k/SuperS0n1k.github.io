@@ -17,8 +17,8 @@ btn.addEventListener("click", function () {
 });
 
       function openlist() {
-        document.getElementById("projectlist").style.display = "block";
+        document.getElementByClassName("project-list").style.display = "block";
       }
       function closelist() {
-        document.getElementById("projectlist").style.display = "none";
+        document.getElementByClassName("project-list").style.display = "none";
       }
