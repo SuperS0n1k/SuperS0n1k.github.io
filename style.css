@@ -106,10 +106,11 @@ hr {
     width: 150px;
   border: solid 1px #EEE;
  border-radius: 10px;
+display: inline-block;
 }
 
 .project-list {
-display: inline-block;
+
 }
 
 a {
