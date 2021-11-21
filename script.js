@@ -15,3 +15,10 @@ btn.addEventListener("click", function () {
   }
   localStorage.setItem("theme", theme);
 });
+
+      function openlist() {
+        document.getElementById("projectlist").style.display = "block";
+      }
+      function closelist() {
+        document.getElementById("projectlist").style.display = "none";
+      }
