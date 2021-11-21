@@ -109,7 +109,7 @@ hr {
 display: inline-block;
 }
 
-.project-list {
+#project-list {
 top: 100px;
 right: 100px;
 display: none;
