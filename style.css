@@ -212,3 +212,7 @@ a.no-hover:hover {
   .short-caption1 { font: -apple-system-short-caption1 }
   .short-footnote { font: -apple-system-short-footnote }
   .tall-body { font: -apple-system-tall-body }
+
+* {
+   font-family: -apple-system;
+ }
