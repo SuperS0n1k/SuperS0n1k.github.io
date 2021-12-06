@@ -65,10 +65,6 @@ body.dark-theme {
   --bkg-color: #080c11;
 }
 
-* {
-  font-family: -apple-system;
-}
-
 body {
   background: var(--bkg-color);
   color: var(--text-color);
