@@ -60,7 +60,7 @@ body {
   --text-color: #000000;
   --bkg-color: #F2F2F7;
   --card-color: #E3E3E9
-  --hr-thm: 1px solid rgba(0, 0, 0, 0.1);
+  --hr-thm: 1px solid rgba(0, 0, 0, 0.2);
 }
 body.dark-theme {
   --text-color: #ffffff;
