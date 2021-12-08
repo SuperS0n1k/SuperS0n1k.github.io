@@ -60,11 +60,13 @@ body {
   --text-color: #000000;
   --bkg-color: #F2F2F7;
   --card-color: #E3E3E9
+  --hr-thm: 1px solid rgba(0, 0, 0, 0.1);
 }
 body.dark-theme {
   --text-color: #ffffff;
   --bkg-color: #000000;
   --card-color: #1C1C1E;
+  --hr-thm: 1px solid rgba(225, 225, 225, 0.1);
 }
 
 body {
@@ -81,7 +83,7 @@ body {
 hr {
     border: 0;
     height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-top: ;
     border-bottom: 1px solid rgba(255, 0, 0, 0);
 }
 
