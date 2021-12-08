@@ -57,12 +57,14 @@
 .form-switch input:checked + i::after { transform: translate3d(22px, 2px, 0); }
 
 body {
-  --text-color: #222;
-  --bkg-color: #EEF2F7;
+  --text-color: #000000;
+  --bkg-color: #F2F2F7;
+  --card-color: #E3E3E9
 }
 body.dark-theme {
-  --text-color: #eee;
-  --bkg-color: #080c11;
+  --text-color: #ffffff;
+  --bkg-color: #000000;
+  --card-color: #1C1C1E;
 }
 
 body {
